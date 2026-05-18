@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a95564ad-2187-466c-aad1-59f290f05c2e" /><div align="center">
 
 # 🎉 Congratulations J3SS25! 🎉
 
@@ -35,3 +35,4 @@
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+This is my first Git change!
